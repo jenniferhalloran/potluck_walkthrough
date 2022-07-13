@@ -32,7 +32,7 @@ class Potluck
 
     def menu
 
-        ##This may not seem like the prettiest or most efficient way to solve this, but this is completely valid and what is all they expect of you at this point in mod1 in an IC!
+        ##This may not seem like the prettiest or most efficient way to solve this, but this is completely valid and is all they expect of you at this point in mod1 in an IC!
         menu_hash = {
             appetizers: [],
             entres: [],
@@ -59,7 +59,7 @@ class Potluck
         #     desserts: get_all_from_category(:dessert).map(&:name).sort
         # }
 
-        ## My not quite as handy way of solving this, but knowing how to check if a key/value pair exists similarly to how I do on line 64 will be handy in future ICs --->
+        ## My not quite as handy way of solving this, but knowing how to check if a key/value pair exists similarly to how I do with `if menu_hash[dish_category.to_sym].nil?` will be handy in future ICs --->
         # menu_hash = {}
         # @dishes.each do |dish|
         #     dish_category = dish.category.to_s + "s"
