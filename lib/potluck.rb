@@ -74,6 +74,7 @@ class Potluck
     end 
 
     def ratio(category)
+        ## You can put the `.to_f` on one of the values or both of the values and return a float.
         (get_all_from_category(category).count.to_f / @dishes.count.to_f) * 100
     end
 end
