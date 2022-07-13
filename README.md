@@ -1,7 +1,7 @@
-# Potluck
-Here is my repository for Mod 1 students to access after my walkthrough on 7/13, I will include the video walkthrough link when it is available.
-Good luck ya'll! :) 
-
+# Potluck Walkthrough 
+**This is my repository for Mod 1 students to access after my walkthrough on 7/12/22. The recording of the walkthrough is available [here](https://drive.google.com/file/d/14Vk_0Buw9aSNZLAfoXnVb3HR9AX68iZp/view?usp=sharing) in case you missed it!** <br>
+Good luck ya'll! :) </b>
+___
 ## Instructions
 
 * Fork this Repository
