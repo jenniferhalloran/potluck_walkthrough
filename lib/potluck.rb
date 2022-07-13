@@ -24,7 +24,7 @@ class Potluck
         # end
         # category_dishes
 
-        ##Using select (for our purposes this is essentially the same as find_all, but you can learn about the suble difference here https://stackoverflow.com/questions/20999192/is-find-all-and-select-the-same-thing) --->
+        ##Using select (for our purposes this is essentially the same as find_all, but you can learn about the subtle difference here https://stackoverflow.com/questions/20999192/is-find-all-and-select-the-same-thing) --->
         # dishes.select do |dish|
         #     dish.category == category
         #   end
