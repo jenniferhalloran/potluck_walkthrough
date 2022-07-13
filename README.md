@@ -1,4 +1,6 @@
 # Potluck
+Here is my repository for Mod 1 students to access after my walkthrough on 7/13, I will include the video walkthrough link when it is available.
+Good luck ya'll! :) 
 
 ## Instructions
 
