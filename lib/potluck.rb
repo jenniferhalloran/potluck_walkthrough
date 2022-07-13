@@ -12,7 +12,7 @@ class Potluck
 
     def get_all_from_category(category)  
 
-        ## single line syntax, this as the same functionality as a before each block --->
+        ## single line syntax, this as the same functionality as an enumerable block --->
         dishes.find_all { |dish| dish.category == category }
 
         ##Using each --->
